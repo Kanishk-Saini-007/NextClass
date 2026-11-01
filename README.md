@@ -2,7 +2,7 @@
 
 Know what class you are in, what is next, and exactly how long until it starts.
 
-**Live demo:** https://kanishksaini-007.github.io/NextClass/
+**Live demo:** https://kanishk-saini-007.github.io/NextClass/
 
 ## What it does
 
